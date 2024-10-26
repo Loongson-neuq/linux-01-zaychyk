@@ -13,7 +13,9 @@
 你能获取到的信息：
 
 ```
-
+1、主机：archlinux  用户名：caiyi
+2、~:home目录
+3、git --version:查看当前git版本
 ```
 
 ### 2
@@ -27,6 +29,8 @@ caiyi@LAPTOP-I80ETG8J ~> git --version
 你能获取到的信息：
 
 ```
+1、主机：LAPTOP-I80ETG8 用户名：caiyi
+2、使用的shell是fish
 
 ```
 
@@ -37,7 +41,9 @@ caiyi@LAPTOP-I80ETG8J ~> git --version
 你能获取到的信息：
 
 ```
-
+1、使用的shell是fish
+2、主机：ROG-Strix-G16 用户名：yttehs
+3、时间是：8：07：12 PM
 ```
 
 ### 4
@@ -47,7 +53,7 @@ caiyi@LAPTOP-I80ETG8J ~> git --version
 你能获取到的信息：
 
 ```
-
+1、使用的shell是zsh
 ```
 
 ### 5
@@ -64,7 +70,7 @@ PS C:\Users\Caiyi Hsu>
 你能获取到的信息：
 
 ```
-
+1、使用windows系统的powershell
 ```
 
 ### 6
@@ -77,7 +83,7 @@ $ git --version
 你能获取到的信息：
 
 ```
-
+1、使用的shell是git bash
 ```
 
 ## 编写命令
@@ -130,13 +136,13 @@ $ git --version
 
 ## 填空题
 
-1. 给出一个常用的打印文件内容的命令：____
+1. 给出一个常用的打印文件内容的命令：__cat_
 
-2. 给出一个常用的创建空文件夹的命令：____
+2. 给出一个常用的创建空文件夹的命令：__mkdir__
 
-3. 如果我下载了一个 a.out 没有执行权限，你应该输入什么命令：____
+3. 如果我下载了一个 a.out 没有执行权限，你应该输入什么命令：__chmod +x a.out__
 
-4. 在 Shell 中输出 "Hello, world" 的命令：____
+4. 在 Shell 中输出 "Hello, world" 的命令：__echo "Hello,world"__
 
 ## 简答题
 
@@ -155,7 +161,7 @@ $ git --version
 提示：利用环境变量
 
 ```
-在这里简述你的操作
+将工具链的bin目录添加到系统PATH环境变量中
 ```
 
 ## 可选附加作业(自学)
